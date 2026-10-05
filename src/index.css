@@ -1,0 +1,4 @@
+body {
+  /* 한글이 단어 중간에서 줄바꿈되지 않게 한다 */
+  word-break: keep-all;
+}
